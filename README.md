@@ -1,5 +1,5 @@
 # Periodic_payment  
-[![Documentation Status](https://readthedocs.org/projects/pyteal/badge/?version=latest)](https://pyteal.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/pyteal/badge/?version=latest)](https://hashnode.com/post/periodicpayment-with-pyteal-cky9x9msf00fjajs1ezqp69h1)
 ## Periodic Payment allows some account to execute periodic withdrawal of funds
 
 This allows TMPL_RCV to withdraw TMPL_AMT every
